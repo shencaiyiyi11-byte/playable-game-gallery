@@ -46,5 +46,29 @@ window.GAME_CATALOG = {
     "src": "no-signal/game.html",
     "image": "images/no-signal.jpg",
     "megabytes": 53
+  },
+  "halloween-racing": {
+    "title": "万圣夜竞速",
+    "english": "HALLOWEEN NIGHT RACING",
+    "genre": "五境疾驰 / 街机竞速",
+    "version": "网印万圣节 · 完整赛道",
+    "description": "驶过骷髅车库、跨海高架、山道与幽灵海岸，在粉蓝网印世界里冲向终点。",
+    "controls": "Enter 开赛 · WASD / 方向键驾驶 · 空格漂移 · Shift 氮气 · E 道具 · R 回检查点 · Esc 暂停 · M 声音",
+    "hint": "加载完成后按 Enter 开赛。",
+    "src": "halloween-racing/game.html",
+    "image": "images/halloween-racing.jpg",
+    "megabytes": 121
+  },
+  "no-signal-halloween": {
+    "title": "失联航次 · 万圣节",
+    "english": "NO SIGNAL / HALLOWEEN",
+    "genre": "恐怖探索 / 单人",
+    "version": "S01 手绘哥特 · 网页试玩",
+    "description": "进入手绘哥特风格的失联游轮，穿过面具、南瓜与悬灯装饰的通廊，解开船上谜题并避开巡逻者。",
+    "controls": "Enter 开始 · WASD / 方向键移动 · 鼠标观察 · E 交互 · Shift 奔跑 · F 手电 · Tab 地图 · J 日志 · Esc 暂停",
+    "hint": "按 Enter 登船，点击画面锁定鼠标；Esc 释放鼠标。",
+    "src": "no-signal-halloween/game.html",
+    "image": "images/no-signal-halloween.jpg",
+    "megabytes": 116
   }
 };

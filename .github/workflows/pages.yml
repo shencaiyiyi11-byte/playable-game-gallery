@@ -1,4 +1,4 @@
-name: Publish racing games
+name: Publish game gallery
 on:
   push:
     branches: [main]
