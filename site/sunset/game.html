@@ -129,6 +129,7 @@ const engine = new Engine(GODOT_CONFIG);
 		}
 		if (mode === 'hidden') {
 			statusOverlay.remove();
+			window.parent.postMessage({type:"game-ready", game:"sunset"}, window.location.origin);
 			initializing = false;
 			return;
 		}
